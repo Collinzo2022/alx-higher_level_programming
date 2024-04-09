@@ -2,4 +2,3 @@
 def pow(a, b):
     squ = a ** b
     return squ
-
